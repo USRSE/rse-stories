@@ -12,6 +12,10 @@ applies and organges, when one person might be heavily involved in open source
 software engineering, and another actively publishing, and a third with managerial duties,
 and a fourth doing administration for HPC?
 
+> Do you want to be interviewed on the show? We'd love to hear your story!
+
+<a style="text-decoration:none" class="btn btn-primary get-started-btn" href="https://forms.gle/8NBVQYwTgDs4X7HN7">Sign Up!</a>
+
 ## Efforts to Define
 
 While a more rigorous analysis would be warranted, there were several early efforts to 
@@ -37,6 +41,9 @@ of research software engineering.
 
 If you are interested in being interviewed for our show, please let us know! There
 is no official release schedule or advertising, so the interaction is fun and casual,
-and releases will be done as they are recorded and edited.
+and releases will be done as they are recorded and edited. We ask participants to create
+their RSE Phenotype, a plot that show the dimensions that define, and communities they are 
+relevant for, as a practice in self introspection using the <a href="https://us-rse.org/rse-phenotype/" target="_blank">RSE Phenotype Generator</a>. It's up to you if you want to share the final
+graphic with RSE Stories, but we encourage you to do so!
 
-<a class="btn btn-primary get-started-btn" href="https://forms.gle/8NBVQYwTgDs4X7HN7">Sign Up</a>
+<a style="text-decoration:none" class="btn btn-primary get-started-btn" href="https://forms.gle/8NBVQYwTgDs4X7HN7">Sign Up</a>
