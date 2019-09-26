@@ -20,7 +20,7 @@ podcast:
     name: Vanessa Sochat
     email: vsochat@stanford.edu
   explicit: "no"
-  image: /assets/img/logo.png # iTunes requires 2,000 pixel art
+  image: /assets/img/generic-2000.png # iTunes requires 2,000 pixel art
   keywords: "research software engineering,rse,rse-stories,software"
   categories:
     - category: "Technology"
