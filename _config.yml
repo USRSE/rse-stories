@@ -1,0 +1,77 @@
+# --- General options --- #
+
+baseurl: "/rse-stories"
+
+title: RSE Stories
+description: Research Software Engineer Stories
+author: USRSE
+
+twitter:  us_rse
+github_username:  usrse
+
+# DO NOT EDIT BELOW THIS LINE ##################################################
+
+logo: "assets/img/logo-transparent.svg"
+
+# Podcast Metadata
+itunes_url: "https://itunes.apple.com/us/podcast/rse-stories"
+podcast:
+  owner:
+    name: Vanessa Sochat
+    email: vsochat@stanford.edu
+  explicit: "no"
+  image: /assets/img/logo.png # iTunes requires 2,000 pixel art
+  keywords: "research software engineering,rse,rse-stories,software"
+  categories:
+    - category: "Find categories on iTunes"
+
+# Paths
+defaults:
+    -
+        scope:
+            path: "pages"
+            type: pages
+        values:
+            layout: page
+    -
+        scope:
+            path: ""
+            type: posts
+        values:
+            layout: post
+            comments: true
+    -
+        scope:
+            path: "_episodes"
+            type: episode
+        values:
+            layout: episode
+
+# Collections
+collections:
+  episode:
+    permalink: /episode/:date/:name/
+    layout: "episode"
+    output: true
+
+# Navigation
+navbar-links:
+  About: "about"
+  Episodes:
+    - All Episodes: "episodes"
+    - Archive: "archive"
+
+# Build settings
+permalink   : /:year/:categories/:title/
+exclude: ["_site", "vendor", ".circleci"]
+
+markdown:          kramdown
+comments: true
+paginate:          5
+paginate_path: "/posts/page:num/"
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
