@@ -2,6 +2,8 @@
 layout: post
 title: "Research Software Engineer Stories: Hello World!"
 author: "@vsoch"
+rse: "Ian Cosden"
+phenotype: "cosden-rse-phenotype.png"
 excerpt: "For the first episode of RSE Stories, we interview Ian Cosden from Princeton."
 date: 2019-09-26 4:50:00
 media: rse-stories-ian-cosden.mp3

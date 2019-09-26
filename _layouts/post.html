@@ -36,10 +36,19 @@ layout: default
 
 			<div style="padding-top: 20px;"><a href="{{ site.baseurl }}/assets/episodes/{{ page.media }}">Download MP3</a> | <a href="/episodes.rss">Subscribe to the podcast</a> | <a href="{{ site.itunes_url }}">Subscribe on iTunes</a>
 			</div>
-	<div style="padding-top: 20px;">
- 
+	<div style="padding-top: 20px;"> 
         <br>
         <hr>
+        <br>
+
+        {% if page.phenotype %}<h3>RSE Phenotype</h3>
+        <p>{{ page.rse }} created his RSE Phenotype, a simple plot to show the dimensions that help to define his work, and the communities they are defined for using the <a href="https://us-rse.org/rse-phenotype/" target="_blank">RSE Phenotype Generator</a></a><br>
+        <img src="{{ site.baseurl }}/assets/img/phenotypes/{{ page.phenotype }}">{% endif %}
+
+
+        <br>
+        <hr>
+        <br>
 
         <h3>Resources</h3>
         <ul>{% for resource in page.resources %}
