@@ -7,7 +7,7 @@ permalink: /episodes.rss
 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
 <channel>
 	<title>{{ site.title }}</title>
-	<link>{{ site.url }}</link>
+	<link>{{ site.url }}{{ site.baseurl }}</link>
 	<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 	<language>en-US</language>
 	<generator>Jekyll (http://jekyllrb.com)</generator>

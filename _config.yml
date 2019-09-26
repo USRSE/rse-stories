@@ -23,7 +23,7 @@ podcast:
   image: /assets/img/logo.png # iTunes requires 2,000 pixel art
   keywords: "research software engineering,rse,rse-stories,software"
   categories:
-    - category: "Find categories on iTunes"
+    - category: "Technology"
 
 # Paths
 defaults:
