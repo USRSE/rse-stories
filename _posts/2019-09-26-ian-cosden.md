@@ -15,6 +15,8 @@ resources:
    url: https://www.twitter/IanCosden
  - name: The US Research Software Engineer Association
    url: https://us-rse.org
+ - name: Good Enough Practices for Scientific Computing
+   url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510
 ---
 
 In this first episode, we interview <a href="https://researchcomputing.princeton.edu/people/ian-cosden-0" target="_blank">Ian Cosden</a>,
