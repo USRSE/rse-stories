@@ -24,7 +24,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 	{% for category_hash in site.podcast.categories %}{% for hash in category_hash %}
 	<itunes:category text="{{ hash[1] }}"/>
 	{% endfor %}{% endfor %}
-	<itunes:image href="{{ site.url }}{{ site.baseurl }}/{{ site.podcast.image }}"/>
+	<itunes:image href="{{ site.url }}{{ site.baseurl }}{{ site.podcast.image }}"/>
 
 {% for post in site.posts %}
 	<item>
