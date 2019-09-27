@@ -8,7 +8,7 @@ permalink: /about/
 In early 2019 when <a href="https://us-rse.org" target="_blank">US-RSE</a>
 was being established, it was quickly clear that <a href="https://us-rse.org/what-is-an-rse/" target="_blank">
 defining a research software engineer</a> would be a challenging task. How could we compare
-applies and organges, when one person might be heavily involved in open source 
+apples and oranges, when one person might be heavily involved in open source 
 software engineering, and another actively publishing, and a third with managerial duties,
 and a fourth doing administration for HPC?
 
