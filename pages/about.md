@@ -5,6 +5,15 @@ description: About Research Software Engineer Stories
 permalink: /about/
 ---
 
+<style>
+.page-heading {
+  padding-bottom: 25px !important;
+  margin-bottom:0px !important;
+}
+</style>
+
+<img src="{{ site.baseurl }}/assets/img/logo/rse-stories-real.png" style="border-radius:10px">
+
 In early 2019 when <a href="https://us-rse.org" target="_blank">US-RSE</a>
 was being established, it was quickly clear that <a href="https://us-rse.org/what-is-an-rse/" target="_blank">
 defining a research software engineer</a> would be a challenging task. How could we compare
@@ -15,6 +24,8 @@ and a fourth doing administration for HPC?
 > Do you want to be interviewed on the show? We'd love to hear your story!
 
 <a style="text-decoration:none" class="btn btn-primary get-started-btn" href="https://forms.gle/8NBVQYwTgDs4X7HN7">Sign Up!</a>
+
+<br>
 
 ## Efforts to Define
 
@@ -30,6 +41,7 @@ start to discuss the definition of RSE:
 
 <hr>
 
+<br>
 
 ## A Limited Scope
 

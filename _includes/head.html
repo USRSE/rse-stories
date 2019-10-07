@@ -21,6 +21,17 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
-   {% include favicon.html %}
+  <meta property="og:title" content="RSE Stories" />
+  <meta property="og:description" content="Research Software Engineer Stories">
+  <meta property="og:type" content="website" />  
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}" />  
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/logo/rse-stories-real-small.png" />
+  
+  <!-- Twitter summary cards -->
+  {% if site.twitter %}<meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}RSE Stories{% endif %}" />
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}Research Software Engineer Stories{% endif %}">
+  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/logo/rse-stories-real-small.png" />{% endif %}
+  {% include favicon.html %}
 
 </head>

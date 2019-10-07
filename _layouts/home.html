@@ -1,13 +1,7 @@
 ---
 layout: default
 ---
-
-<!-- Page Header -->
-{% if page.background %}
-<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | prepend: assets | replace: '//', '/' }}')">
-  {% else %}
   <header class="masthead">
-    {% endif %}
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-md-10 {% if site.twitter %}{% else %}mx-auto{% endif %}">
