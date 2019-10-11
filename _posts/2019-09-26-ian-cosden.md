@@ -14,7 +14,7 @@ resources:
  - name: Ian Cosden on GitHub
    url: https://www.github.com/cosden
  - name: Ian Cosden on Twitter
-   url: https://www.twitter/IanCosden
+   url: https://www.twitter.com/IanCosden
  - name: The US Research Software Engineer Association
    url: https://us-rse.org
  - name: Good Enough Practices for Scientific Computing
