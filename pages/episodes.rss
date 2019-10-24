@@ -39,7 +39,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 		<itunes:summary>{{ post.excerpt }}</itunes:summary>
 		<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 		<itunes:duration>{{ post.duration }}</itunes:duration>
-		<itunes:image href="{{ site.url }}{{ site.podcast.image }}"/><enclosure url="{{ site.url }}{{ site.baseurl }}/assets/episodes/{{ post.media }}" length="{{ post.length }}" type="audio/mpeg" />
+		<itunes:image href="{% if post.image %}{{ site.url }}{{ site.baseurl }}/assets/img/coffee/{{ post.image }}{% else %}{{ site.url }}{{ site.podcast.image }}{% endif %}"/><enclosure url="{{ site.url }}{{ site.baseurl }}/assets/episodes/{{ post.media }}" length="{{ post.length }}" type="audio/mpeg" />
 	</item>
 	{% endfor %}
 </channel>
