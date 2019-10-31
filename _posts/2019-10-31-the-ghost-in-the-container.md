@@ -4,7 +4,7 @@ title: "The Ghost in the Container"
 author: "@vsoch"
 rse: "Dockerod Main"
 excerpt: "It's good to follow best practices for container building. Otherwise, you might lose yourself."
-date: 2019-10-29 8:30:00
+date: 2019-10-31 8:30:00
 media: rse-stories-halloween-2019-3.5.mp3
 image: halloween-2019.png
 length: 13394787
