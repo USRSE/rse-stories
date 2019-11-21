@@ -5,7 +5,7 @@ author: "@vsoch"
 rse: "Ross Blair"
 phenotype: "rwblair-rse-phenotype.png"
 excerpt: "Ross thought he might want snacks and nap-pods, but found happiness in The Lab Without A Couch"
-date: 2019-11-01 8:30:00
+date: 2019-11-21 8:30:00
 media: rse-stories-ross-blair-episode-5.mp3
 image: ross-blair.png
 length: 10172081
