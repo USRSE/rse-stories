@@ -4,7 +4,7 @@ title: "Open up, Neuroscience! Here comes NeuroDebian"
 author: "@vsoch"
 rse: "Yaroslav Halchenko"
 phenotype: "yarikoptic-rse-phenotype.png"
-excerpt: "Research software engineering education at a small liberal arts school"
+excerpt: "Research software engineering for open source neuroscience"
 date: 2019-12-5 8:30:00
 image: yaroslav-halchenko.png
 media: rse-stories-yaroslav-episode-6.mp3
