@@ -1,5 +1,6 @@
 ---
 This transcript was created by Hendrik Geßner with the help of the speech-to-text platform www.amberscript.com
+Some transcribed text pieces may contain errors, these are marked with '''text here'''
 ---
 
 00:00:00
