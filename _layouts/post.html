@@ -34,7 +34,7 @@ layout: default
 			Sadness. Your browser does not support the audio element.
   			</audio>
 
-			<div style="padding-top: 20px;"><a href="{{ site.baseurl }}/assets/episodes/{{ page.media }}">Download MP3</a> | <a href="{{ site.baseurl }}/episodes.rss">Subscribe to the podcast (feed)</a> | <a href="{{ site.itunes_url }}">Subscribe on iTunes</a>
+			<div style="padding-top: 20px;"><a href="{{ site.baseurl }}/assets/episodes/{{ page.media }}">Download MP3</a> | <a href="{{ site.baseurl }}/episodes.rss">Subscribe to the podcast (feed)</a> | <a href="{{ site.itunes_url }}">Subscribe on iTunes</a>{% if page.transcript %} | <a href="{{ site.baseurl }}/pages/transcripts/{{ page.transcript }}">Transcript</a>{% endif %}
 			</div>
 	<div style="padding-top: 20px;"> 
         <br>

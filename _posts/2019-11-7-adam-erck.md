@@ -4,6 +4,7 @@ title: "A Coding Center in a Box"
 author: "@vsoch"
 rse: "Adam Erck"
 phenotype: "aerck-rse-phenotype.png"
+transcript: "2019-11-7-adam-erck"
 excerpt: "Research software engineering education at a small liberal arts school"
 date: 2019-11-7 8:30:00
 media: rse-stories-adam-erck-episode-4.mp3
