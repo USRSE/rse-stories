@@ -2,7 +2,7 @@
 layout: post
 title: "Space Software"
 author: "@vsoch"
-rse: "Greg Lemieux"
+rse: "Gregory Lemieux"
 phenotype: "glemieux-rse-phenotype.png"
 excerpt: "Code for the moon, and even if you stay on the ground, you'll land among the stars."
 date: 2019-12-19 8:30:00
@@ -23,7 +23,7 @@ resources:
 ---
 
 The role of a research software engineer is so much more about programming or research.
-Greg Lemiuex lives this fully - he grew up inspired by the night sky, and followed
+Gregory Lemiuex lives this fully - he grew up inspired by the night sky, and followed
 his heart to pursue his dream of designing space missions, and even threw some
 tree climbing into the mix. For this seventh episode of RSE Stories, we share
 his journey.
