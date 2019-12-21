@@ -25,6 +25,10 @@ and a fourth doing administration for HPC?
 
 <a style="text-decoration:none" class="btn btn-primary get-started-btn" href="https://forms.gle/8NBVQYwTgDs4X7HN7">Sign Up!</a>
 
+RSE Stories is not limited to research software engineers in the United States.
+The host @vsoch happens to be located there, but it's important that we share
+stories from across the RSE community, regardless of your geographic location.
+
 <br>
 
 ## Efforts to Define
