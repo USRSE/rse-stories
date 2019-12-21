@@ -21,13 +21,13 @@ apples and oranges, when one person might be heavily involved in open source
 software engineering, and another actively publishing, and a third with managerial duties,
 and a fourth doing administration for HPC?
 
-> Do you want to be interviewed on the show? We'd love to hear your story!
-
-<a style="text-decoration:none" class="btn btn-primary get-started-btn" href="https://forms.gle/8NBVQYwTgDs4X7HN7">Sign Up!</a>
-
 RSE Stories is not limited to research software engineers in the United States.
 The host @vsoch happens to be located there, but it's important that we share
 stories from across the RSE community, regardless of your geographic location.
+
+> Do you want to be interviewed on the show? We'd love to hear your story!
+
+<a style="text-decoration:none" class="btn btn-primary get-started-btn" href="https://forms.gle/8NBVQYwTgDs4X7HN7">Sign Up!</a>
 
 <br>
 
