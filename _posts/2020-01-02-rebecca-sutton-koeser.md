@@ -3,7 +3,6 @@ layout: post
 title: "Hidden Layers of Data"
 author: "@vsoch"
 rse: "Rebecca Sutton Koeser"
-phenotype: ""
 excerpt: "The beautiful intersection between digital humanities and computer science."
 date: 2020-01-02 8:30:00
 image: rebecca-sutton-koeser.png
