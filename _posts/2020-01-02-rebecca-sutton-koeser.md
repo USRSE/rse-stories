@@ -32,7 +32,7 @@ resources:
 
 Where does computer science and research software engineering intersect with
 literature, poetry, or other gems from the humanities? In the digital humanities, of course!
-For this first episode in the new year of 2020, we talk to Rebecca Sutton Koeser, a lead
+For this first episode in the new year of 2020, we talk to Rebecca Sutton Koeser, the lead
 developer at the Princeton Center for Humanities. Did you know that layers of data are
 hiding in the texts around you, and can be translated in so many ways? This week,
 we'll talk about that.
