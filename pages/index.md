@@ -10,3 +10,5 @@ the many <a href="https://us-rse.org/rse-phenotype/about/" target="_blank">pheno
 that can define an RSE. As initiatives to empower RSEs take off in both the <a href="https://us-rse.org" target="_blank">United States</a> and 
 the <a href="https://rse.ac.uk/" target="_blank">UK</a>, whether you
 are a scientist, a programmer, or something else, your story is interesting and unique, and we want to hear about it!
+
+<a href="{{ site.baseurl }}/episodes.rss">Subscribe to the podcast (feed)</a> | <a href="{{ site.itunes_url }}">Subscribe on iTunes</a>
