@@ -59,6 +59,7 @@ navbar-links:
   About: "about"
   Episodes:
     - All Episodes: "episodes"
+    - Episodes Feed: "episodes.rss"
     - Archive: "archive"
 
 # Build settings

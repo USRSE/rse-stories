@@ -21,12 +21,13 @@ layout: default
               <div class="get-started-wrap">
                 <a class="btn btn-primary get-started-btn" href="{{ site.baseurl }}/about">About</a>
                 <a class="btn btn-primary get-started-btn" href="{{ site.baseurl }}/episodes">Episodes</a>
+                <a class="btn btn-warning get-started-btn" href="{{ site.baseurl }}/episodes.rss">Episodes Feed</a>
+                <a class="btn btn-warning get-started-btn" href="{{ site.itunes_url }}">Subscribe (iTunes)</a>
               </div>
            </div>
 
         <!-- Home Post List -->
         {% for post in site.posts limit : 5 %}
-
         <article class="post-preview">
           <a href="{{ site.baseurl }}{{ post.url }}">
             <h2 class="post-title">{{ post.title }}</h2>
