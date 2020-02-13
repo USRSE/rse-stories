@@ -3,7 +3,7 @@ layout: post
 title: "Open source biology for a democratic future"
 author: "@vsoch"
 rse: "Keoni Gandall"
-excerpt: "A story of learning, and following both passions for science and the sunshine."
+excerpt: "Designing DNA... only a teardrop away!"
 date: 2020-02-02 3:30:00
 image: keoni-gandall.png
 media: rse-stories-keoni-gandall-episode-11.mp3
