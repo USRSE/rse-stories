@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open source biology for a democratic future"
+title: "Open Source Biology: a democratic future"
 author: "@vsoch"
 rse: "Keoni Gandall"
 excerpt: "Designing DNA... only a teardrop away!"
