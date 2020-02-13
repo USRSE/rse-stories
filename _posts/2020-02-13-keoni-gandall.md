@@ -4,7 +4,7 @@ title: "Open source biology for a democratic future"
 author: "@vsoch"
 rse: "Keoni Gandall"
 excerpt: "Designing DNA... only a teardrop away!"
-date: 2020-02-02 3:30:00
+date: 2020-02-13 9:30:00
 image: keoni-gandall.png
 media: rse-stories-keoni-gandall-episode-11.mp3
 length: 14487816
