@@ -13,7 +13,7 @@ duration: "00:20:18"
 explicit: "no"
 resources:
  - name: Verónica on Twitter
-   url: https://www.twitter.com/verolero
+   url: https://www.twitter.com/verolero86
  - name: Oak Ridge Leadership Computing Facility
    url: https://www.olcf.ornl.gov/
  - name: Oak Ridge HPC Engineer Job
