@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "It Started with the Monkey Flowers"
+title: "The Monkey Flowers"
 author: "@vsoch"
 rse: "Hannah Verdonk"
 phenotype: hverdonk-rse-phenotype.png
-excerpt: "hannah-verdonk.png"
+excerpt: "How surprising interests can lead us to being an RSE"
 date: 2020-03-12 9:30:00
 image: hannah-verdonk.png
 media: rse-stories-hannah-verdonk-episode-13.mp3
