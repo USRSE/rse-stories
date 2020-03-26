@@ -44,11 +44,12 @@ One of the greatest joys is meeting a research software engineer
 that is so passionate about their craft that it flows out of them.
 This is definitely the case for Kenneth Hoste, an HPC Systems Administrator
 in Belgium that found himself strongly to be in the role of RSE
-to work on the EasyBuild project on behalf of his research community.
+while he was working on the EasyBuild project on behalf of his research community.
 In this week's episode of RSE Stories, we chat with Kenneth, 
-and learn how to grow a community, and the intersection between HPC and
+and learn about how to grow a community, and about the intersection between HPC and
 research software. And do you want to know how to make a package manager,
 or a container cry? This is the episode for you!
 
 If you want to request an invitation to the [EasyBuild Slack](https://easybuild.slack.com)
-you can [self-request here](https://easybuild-slack.herokuapp.com).
+you can [self-request here](https://easybuild-slack.herokuapp.com). See all
+of the interesting links and resources for how to get involved [below](#resources).
