@@ -4,8 +4,8 @@ title: "The Cloud Engineer"
 author: "@vsoch"
 rse: "Bob Killen"
 phenotype: mrbobbytables-rse-phenotype.png
-excerpt: "Bpb Killen talks about a new kind of research software engineer, one that focuses on message based workflows on container clusters."
-date: 2020-04-23 9:30:00
+excerpt: "Bob Killen talks about a new kind of research software engineer, one that focuses on message based workflows on container clusters."
+date: 2020-04-23 8:30:00
 image: bob-killen.png
 media: rse-stories-bob-killen-episode-16.mp3
 length: 13475265
