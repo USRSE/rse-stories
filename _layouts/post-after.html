@@ -28,11 +28,11 @@ layout: default
       	<p>{{ page.date | date: "%-d %B %Y" }}</p>
 
         <audio preload="metadata" controls="" style="width:100%;">
-			  <source src="{{ site.baseurl }}/assets/episodes/{{ page.media }}" type="audio/mpeg">
+			  <source src="{% if page.media %}{{ site.baseurl }}/assets/episodes/{{ page.media }}{% else %}{{ page.external_media }}{% endif %}" type="audio/mpeg">
 			Sadness. Your browser does not support the audio element.
   			</audio>
 
-			<div style="padding-top: 20px;"><a href="{{ site.baseurl }}/assets/episodes/{{ page.media }}">Download MP3</a> | <a href="{{ site.baseurl }}/episodes.rss">Subscribe to the podcast (feed)</a> | <a href="{{ site.itunes_url }}">Subscribe on iTunes</a>
+			<div style="padding-top: 20px;"><a href="{% if page.media %}{{ site.baseurl }}/assets/episodes/{{ page.media }}{% else %}{{ page.external_media }}{% endif %}">Download MP3</a> | <a href="{{ site.baseurl }}/episodes.rss">Subscribe to the podcast (feed)</a> | <a href="{{ site.itunes_url }}">Subscribe on iTunes</a>
 			</div>
 	<div style="padding-top: 20px;"> 
 
