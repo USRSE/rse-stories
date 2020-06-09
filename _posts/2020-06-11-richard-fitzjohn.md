@@ -22,7 +22,7 @@ resources:
 --- 
 
 RSE Stories is going places! This episode is brought to you from London in collaboration with the Society of Research Software Engineering in the UK (RSE UK).
-In this episode of RSE Stories your host Peter Schmidt talks to Richard Fitzjohn. Richard leads a team of research software engineers (RSE) at the MRC (Medical Research Council) Centre for Global Infectious Disease Epidemiology at Imperial College in London. Before Richard became a research software engineer he worked in theoretical evolutionary biology. But today, he and his team help epidemiologists develop models for infectious diseases. Lately, this meant developing models for the coronavirus outbreak. What does this work entail? And with some models being made public, how can research software engineers ensure that best development practices and standards are being followed and maintained? 
+Today's host is Peter Schmidt talking with Richard Fitzjohn. Richard leads a team of research software engineers (RSE) at the MRC (Medical Research Council) Centre for Global Infectious Disease Epidemiology at Imperial College in London. Before Richard became a research software engineer he worked in theoretical evolutionary biology. But today, he and his team help epidemiologists develop models for infectious diseases. Lately, this meant developing models for the coronavirus outbreak. What does this work entail? And with some models being made public, how can research software engineers ensure that best development practices and standards are being followed and maintained? 
 
 
 
