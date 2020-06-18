@@ -10,8 +10,10 @@ length: 12607200
 duration: "00:23:58"
 explicit: "no"
 resources:
- - name: Stuart on GitHub
+ - name: Stuart on GitHub (MITRE)
    url: https://github.com/sbowman-mitre
+ - name: Stuart on GitHub (personal)
+   url: https://github.com/buffetboy2001
  - name: MITRE
    url: https://www.mitre.org/
 --- 
