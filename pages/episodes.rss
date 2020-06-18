@@ -19,7 +19,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 	<itunes:keywords>{{ site.podcast.keywords }}</itunes:keywords>
 	<itunes:owner>
 		<itunes:name>{{ site.podcast.owner.name }}</itunes:name>
-		<itunes:email>{{ site.email }}</itunes:email>
+		<itunes:email>{{ site.podcast.owner.email }}</itunes:email>
 	</itunes:owner>
 	{% for category_hash in site.podcast.categories %}{% for hash in category_hash %}
 	<itunes:category text="{{ hash[1] }}"/>
