@@ -15,6 +15,8 @@ resources:
    url:  https://www.software.ac.uk
  - name: History of Research Software Engineering in the UK
    url: https://www.software.ac.uk/blog/2016-08-17-not-so-brief-history-research-software-engineers
+ - name: Software Sustainability Institute on Twitter
+   url: https://twitter.com/SoftwareSaved 
  - name: Neil Chue Hong
    url: https://uk.linkedin.com/in/neilchuehong
  - name: Simon Hettrick
