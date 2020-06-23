@@ -22,7 +22,7 @@ resources:
 --- 
 
 In today's episode Peter meets Neil Chue Hong and Simon Hettrick. Neil and Simon are the director/deputy director of the Software Sustainability Institute (https://www.software.ac.uk). For ca 10 years the institute has been the "backbone" for research software engineering and the RSE movement. 
-It helped build the RSE movement and network, not only in the UK but in other countries. Neil and Simon discuss what changes the coronavirus pandemic brought to research software engineering. And what challenges and opportunities lie ahead of us? And did you know the Institut has a blog with cooking recipes?
+It helped build the RSE movement and network, not only in the UK but in other countries. Neil and Simon discuss what changes the coronavirus pandemic brought to research software engineering. And what challenges and opportunities lie ahead of us. And did you know the Institut has a blog with cooking recipes?
 
 
 
