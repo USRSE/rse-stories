@@ -31,7 +31,7 @@ excluded_in_search: true
 					}
 					{% assign added = true %}
 				{% endunless %}
-		{% endfor %}{% for post in site.people %}
+		{% endfor %}{% for post in site.posts %}
 				{% unless post.excluded_in_search %}
 					{% if added %},{% endif %}
 					{% assign added = false %}
