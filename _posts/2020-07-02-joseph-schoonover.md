@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Research Software Engineer CEO"
+title: The Research Software Engineer CEO
 author: "@vsoch"
-rse: "Joseph Schoonover"
+rse: Joseph Schoonover
 phenotype: schoonovernumerics-rse-phenotype.png 
 excerpt: "What prompts a research software engineer to become a CEO?"
 date: 2020-07-02 8:30:00
@@ -17,7 +17,7 @@ resources:
    url: https://www.oshackathon.org/
  - name: HIP-Fortran project for GPU Acceleration of Fortran Apps
    url: https://www.fluidnumerics.com/products/hip-fortran
- - name Maintaining Scientific Software Series
+ - name: Maintaining Scientific Software Series
    url: https://www.fluidnumerics.com/resources/maintaining-scientific-software
 --- 
 
