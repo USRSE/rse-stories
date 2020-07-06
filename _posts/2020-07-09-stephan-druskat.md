@@ -3,7 +3,7 @@ layout: post
 title: "Language shapes reality"
 author: "@pweschmidt"
 rse: "Stephan Druskat"
-phenotype: neilsimon-rse-phenotype.png
+phenotype: sdruskat-rse-phenotype.png
 excerpt: "Meet Stephan Druskat, RSE at the Alexander von Humboldt University in Berlin, Germany. Listen to Stephan explaining the exciting work he does in linguistics and how software supports this important research.  "
 date: 2020-06-11 8:30:00
 external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-stephan-druskat-episode-24.mp3
@@ -27,4 +27,4 @@ Today we go to Berlin in Germany to meet with Stephan Druskat. Stephan is a rese
 the Alexander-von-Humboldt Universität in Berlin. Stephan has been involved with a lot of exciting research on
 linguistics, such as the study of oceanic languages. Together with other research software engineers he worked on
 making software an integral part of publications through 'software citation' and has played an important role in
-building the RSE community in Germany. 
+building the RSE community in Germany.
