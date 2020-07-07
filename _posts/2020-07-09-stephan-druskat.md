@@ -8,7 +8,7 @@ excerpt: "Meet Stephan Druskat, RSE at the Alexander von Humboldt University in 
 date: 2020-06-11 8:30:00
 external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-stephan-druskat-episode-24.mp3
 length: 18840264
-duration: "00:39:16"
+duration: "00:39:39"
 explicit: "no"
 resources:
  - name: The Software Sustainability Institute
