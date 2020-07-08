@@ -23,7 +23,7 @@ resources:
    url: https://dh-rse.github.io
 ---
 
-Today we go to Berlin in Germany to meet with Stephan Druskat (@stdruskat). Stephan is a research software engineer at
+Today we go to Berlin in Germany to meet with Stephan Druskat ([@sdruskat](https://github.com/sdruskat)). Stephan is a research software engineer at
 the [Alexander-von-Humboldt Universität in Berlin](https://www.informatik.hu-berlin.de/).
 He has been involved with a lot of exciting research on
 linguistics, such as the study of oceanic languages (https://www.projekte.hu-berlin.de/en/melatamp).
