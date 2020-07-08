@@ -28,4 +28,4 @@ the [Alexander-von-Humboldt Universität in Berlin](https://www.informatik.hu-be
 He has been involved with a lot of exciting research on
 linguistics, such as the study of oceanic languages (https://www.projekte.hu-berlin.de/en/melatamp).
 Another focus of his work has been "software citation" and ensuring that software becomes a valid and recognised output of research [[ref]](https://elib.dlr.de/133021/1/druskat-cise-2019.pdf).
-And if that isn't enough, Stephan plays an important part in building the RSE community (https://dh-rse.github.io) in Germany.
+And if that isn't enough, Stephan plays an important part in building the [RSE community in Germany](https://dh-rse.github.io).
