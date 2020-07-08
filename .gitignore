@@ -7,4 +7,3 @@ vendor
 vendor/*
 *.bundle
 *.bundle/*
-*.plist
