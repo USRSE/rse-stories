@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Opening Eyes and Turning Lights on."
+title: "Opening Eyes and Turning Lights On"
 author: "@pweschmidt"
 rse: "Radovan Bast"
 phenotype: "bast-rse-phenotype.png"
