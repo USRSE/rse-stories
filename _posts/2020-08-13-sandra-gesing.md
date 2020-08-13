@@ -5,7 +5,7 @@ author: "@vsoch"
 rse: "Sandra Gesing"
 phenotype: sandragesing-rse-phenotype.png
 excerpt: "Successful and reproducible science is not just about writing software, but creating interfaces and interactions that are comfortable for researchers to use. In this episode, Sandra Gesing tells us about the importance of science gateways."
-date: 2020-08-13 8:30:00
+date: 2020-08-13 7:30:00
 external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-sandra-gesing-episode-29.mp3
 length: 13264848
 duration: "00:25:02"
