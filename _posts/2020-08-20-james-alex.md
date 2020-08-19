@@ -4,7 +4,7 @@ title: "How to make beer better"
 author: "@pweschmidt"
 rse: "James Collier & Alexander Botzki"
 phenotype: 
-excerpt: "Have you ever wondered how AI can improve the taste of beer? Look no further than the Flemish Institute for Biotechnology, where James Collier and Alexander Botzki are working hard to help beer lovers enjoy their drinks even more."
+excerpt: "Have you ever wondered how AI can improve the taste of beer? Look no further than the Flemish Institute for Biotechnology (VIB), where James Collier and Alexander Botzki are working hard to help beer lovers enjoy their drinks even more."
 date: 2020-08-20 8:30:00
 external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-james-alex-episode30.mp3
 length: 10084227
@@ -21,5 +21,5 @@ resources:
    url: https://www.elixir-belgium.org 
 ---
 
-For this episode our journey through RSE Land takes us to Belgium. James Collier and Alexander Botzki work at the Flemish Institute for Biotechnology ([Vlaams Instituut voor Biotechnologie - VIB](https://vib.be)). Belgium being famous (amongst many other things) for its beers, lovers of the beverage will appreciate the work James and Alexander do to improve its taste using software technologies such as machine learning. 
-Community building is an important aspect in the work Alex and James do, e.g. their involvement with the [Elixir](https://www.elixir-belgium.org) project, a pan-European network for life sciences. Realising the importance of software engineering in research, they set up an RSE association for Belgium very recently and are excited to announce their first [Research Software Developers Day](https://www.be-rse.org/rsdd2020) for 3 Dec 2020.
+For this episode our journey through RSE land takes us to Belgium. James Collier and Alexander Botzki work at the Flemish Institute for Biotechnology ([Vlaams Instituut voor Biotechnologie - VIB](https://vib.be)). Belgium being famous (amongst many other things) for its beers, lovers of the beverage will appreciate the work James and Alexander do to improve its taste using software technologies such as machine learning. 
+Equally important to their work is community building. They are deeply involved with the [Elixir](https://www.elixir-belgium.org) project, a pan-European network for life sciences. Realising the importance of software engineering in research, they recently set up an RSE association for Belgium. Alex and James are excited to announce their first [Research Software Developers Day](https://www.be-rse.org/rsdd2020) on 3 Dec 2020.
