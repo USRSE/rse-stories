@@ -37,8 +37,8 @@ So, what will the future of scientific communication be? Will it be something li
 If you have ideas and suggestions Emmy would like you to get in touch via [@eLifeInnovation](https://twitter.com/eLifeInnovation) or [email](mailto:innovation@elifesciences.org).
 
 
-## More Links Mentioned In the Interview
-Some of the links mentioned in this episode:  
+Some of the links mentioned in this episode:
+
 - [stencila](https://github.com/stencila/hub) using open source tools to author and share executable documents 
 - [Code Check](https://codecheck.org.uk) by Stephen Eglen and Daniel Nüst to have your research code  checked independently
 - [Binder](https://mybinder.org) which helps to turn Jupyter notebook repositories into executable environments
@@ -46,10 +46,3 @@ Some of the links mentioned in this episode:
 - [Real Time collaboration with JupyterLab](https://github.com/jupyterlab/rtc)
 - [Africa arXiv](https://info.africarxiv.org/) 
 - [Goolge Search](http://www.openscienceradio.org/2019/06/07/osr170-dont-leave-it-to-google-research-infrastructures-en/) why leaving your search for papers to Google may not be a good idea
-
-
-
-
-
-
-
