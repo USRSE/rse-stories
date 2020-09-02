@@ -27,17 +27,27 @@ resources:
    url: https://mybinder.org 
 --- 
 
-The principle format of science communication - the research article - hasn't changed for a very long time. But research, the sharing and communication of data have all changed dramatically. Therefore, is the traditional way of publishing articles in journals still the best way to share scientific results and discoveries?  
+The principle format of science communication - the research article - hasn't changed for a very long time. But research as well as the processing and communication of data have all changed dramatically. Therefore, is the traditional way of publishing still the best way to share scientific results and discoveries?  
  
-This is a question that this episode's guest, [Emmy Tsang](https://twitter.com/emmy_ft), is focusing on at [eLife Sciences](https://elifsciences.org) - a non-profit organisation created by funders and researchers. 
-Following her Ph.D. years in neuroscience, Emmy decided it is time to bring some badly needed change to the way we communicate science. With so much research based on software, we have the opportunity to share science fairer, openly, faster and reproducible. Emmy mentions some of the (many other) initiatives that aim to address this:  
-- [stencila](https://github.com/stencila/hub) using open source tools to author and share executable documents; 
-- [Code Check](https://codecheck.org.uk) can your research code checked independently;
-- [Binder](https://mybinder.org) which helps to turn Jupyter notebook repositories into executable environments; 
-- [Hypergraph](https://www.libscie.org/hypergraph) share your research as you go.
+This is a question [Emmy Tsang](https://twitter.com/emmy_ft) is focusing on at [eLife Sciences](https://elifsciences.org), a non-profit organisation created by funders and researchers.
+Following her Ph.D. years in neuroscience, Emmy decided it is time to bring some badly needed change to science and research communication. With so much research based on software and with modern technologies we have available today, we should be able to make science and the sharing of results fairer, more open and faster. 
 
-So, what is the future of scientific communication? Will it be the [executable research article](https://elifesciences.org/labs/dc5acbde/welcome-to-a-new-era-of-reproducible-publishing)? Will the published article be divided into distinct units (e.g. methods, experiments, conclusions) published and shared individually? 
-As Emmy says, this needs to be a community effort. If you have ideas and suggestions Emmy would like you to get in touch via [@eLifeInnovation](https://twitter.com/eLifeInnovation) or [email](mailto:innovation@elifesciences.org).
+So, what will the future of scientific communication be? Will it be something like the [executable research article](https://elifesci.org/ERA)? Will research articles be replaced with publishing individual 'units of research', e.g. methodologies, results etc.? Whatever the outcome, research software will play a central part in it. And, as Emmy says, change will only happen if we work together as a community.
+
+If you have ideas and suggestions Emmy would like you to get in touch via [@eLifeInnovation](https://twitter.com/eLifeInnovation) or [email](mailto:innovation@elifesciences.org).
+
+
+## More Links Mentioned In the Interview
+Some of the links mentioned in this episode:  
+- [stencila](https://github.com/stencila/hub) using open source tools to author and share executable documents 
+- [Code Check](https://codecheck.org.uk) by Stephen Eglen and Daniel Nüst to have your research code  checked independently
+- [Binder](https://mybinder.org) which helps to turn Jupyter notebook repositories into executable environments
+- [Hypergraph](https://www.libscie.org/hypergraph) share your research as you go
+- [Real Time collaboration with JupyterLab](https://github.com/jupyterlab/rtc)
+- [Africa arXiv](https://info.africarxiv.org/) 
+- [Goolge Search](http://www.openscienceradio.org/2019/06/07/osr170-dont-leave-it-to-google-research-infrastructures-en/) why leaving your search for papers to Google may not be a good idea
+
+
 
 
 
