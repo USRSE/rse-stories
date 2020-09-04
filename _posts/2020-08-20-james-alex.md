@@ -23,3 +23,7 @@ resources:
 
 For this episode our journey through RSE land takes us to Belgium. James Collier and Alexander Botzki work at the Flemish Institute for Biotechnology ([Vlaams Instituut voor Biotechnologie - VIB](https://vib.be)). Belgium being famous (amongst many other things) for its beers, lovers of the beverage will appreciate the work James and Alexander do to improve its taste using software technologies such as machine learning. 
 Equally important to their work is community building. They are deeply involved with the [Elixir](https://www.elixir-belgium.org) project, a pan-European network for life sciences. Realizing the importance of software engineering in research, they recently set up an RSE association for Belgium. Alex and James are excited to announce their first [Research Software Developers Day](https://www.be-rse.org/rsdd2020) on 3 Dec 2020.
+
+## Other Interesting Links
+- [Belgian Beer App](https://vib.be/labs/kevin-verstrepen-lab) from Supinya Piampongsant at the Kevin Verstrepen lab (data collection, experiments, AI). VIB Bioinformatics Core provided the web-site.
+- [Flemish Gut Flora](https://vib.be/labs/jeroen-raes-lab): at the Jeroen Raes Lab.
