@@ -4,7 +4,7 @@ title: "The Wisdom of the Systems Engineer"
 author: "@vsoch"
 rse: "Bruce Wilson"
 phenotype: 
-excerpt: "Diversity of background, perspective, and taking care of yourself and your team are only a few of the ingredients for resiient teams and tools."
+excerpt: "Diversity of background, perspective, and taking care of yourself and your team are only a few of the ingredients for resilient teams and tools."
 date: 2020-09-10 8:30:00
 external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-bruce-wilson-episode-33.mp3
 length: 13081067
