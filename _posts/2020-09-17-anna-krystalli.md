@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "R for Reproducability"
+title: "R for Reproducibility"
 author: "@pweschmidt"
 rse: "Anna Krystalli"
 phenotype: 
-excerpt: "What do plankton surveys, R and reproducability have in common? Anna Krystalli from the University of Sheffield (UK) 
-shares her exciting journey from macrobiology to being a strong proponent of reproducability in research software and a key member of the R community."
+excerpt: "What do plankton surveys, R and reproducibility have in common? In this episode, Anna Krystalli from the University of Sheffield (UK) shares her vast experience and covers areas from macro biology to R programming, community building to making software more open and reproducible."
 date: 2020-09-03 8:30:00
 external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-anna-krystalli-episode-34.mp3
 length: 12178203
@@ -23,6 +22,8 @@ resources:
   - name: On Twitter
     url: https://twitter.com/annakrystalli 
 --- 
+[Anna Krystalli's](https://twitter.com/annakrystalli) career took a number of interesting turns. It all started in macro biology, where Anna helped analyse data from one of the longest running ecological surveys: the [Continuous Plankton Recorder Survey](https://www.cprsurvey.org). Munching all the data took her into the exciting world of R programming. There she started to play an increasingly important role in the R community. This included taking on the role of associate editor of [rOpenSci](https://ropensci.org/). Anna is passionate about making software  more open, accessible and reproducible. As one of the RSE Fellows she has been instrumental in initiatives like the [ReproHack](https://github.com/reprohack/reprohack-hq). And if you ever happen to be in Sheffield, enjoy the great music scene and - climbing.
+
 
 ## Interesting Links
 - [Sir Alistair Hardy](http://marine.gov.scot/copyright/sir-alister-hardy-foundation-ocean-science-sahfos)
