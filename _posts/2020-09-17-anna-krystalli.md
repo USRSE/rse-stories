@@ -5,7 +5,7 @@ author: "@pweschmidt"
 rse: "Anna Krystalli"
 phenotype: 
 excerpt: "What do plankton surveys, R and reproducibility have in common? In this episode, Anna Krystalli from the University of Sheffield (UK) shares her vast experience and covers areas from macro biology to R programming, community building to making software more open and reproducible."
-date: 2020-09-03 8:30:00
+date: 2020-09-17 8:30:00
 external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-anna-krystalli-episode-34.mp3
 length: 12178203
 duration: "00:25:23"
@@ -35,4 +35,3 @@ resources:
 - [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme)
 - [Macroecological and macroevolutionary patterns emerge in the universe of GNU/Linux operating systems](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.03424)
 - [Reinventing Discovery: The New Era of Networked Science](https://en.wikipedia.org/wiki/Reinventing_Discovery)
-
