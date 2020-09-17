@@ -17,7 +17,7 @@ resources:
     url: https://www.software.ac.uk/tags/reprohacks
   - name: rOpenSci Anna Krystalli 
     url: https://ropensci.org/author/anna-krystalli/
-  - name: Anna's github
+  - name: Anna's GitHub
     url: https://github.com/annakrystalli
   - name: On Twitter
     url: https://twitter.com/annakrystalli 
