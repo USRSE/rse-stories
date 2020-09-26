@@ -26,7 +26,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 	{% endfor %}{% endfor %}
 	<itunes:image href="{{ site.url }}{{ site.baseurl }}{{ site.podcast.image }}"/>
 
-{% for post in site.posts %}
+{% for post in site.posts %}{% unless post.excluded %}
 	<item>
 		<title>{{ post.title | xml_escape }}</title>
 		<dc:creator>{{ site.podcast.owner.name }}</dc:creator>
@@ -41,6 +41,6 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 		<itunes:duration>{{ post.duration }}</itunes:duration>
 		<itunes:image href="{% if post.image %}{{ site.url }}{{ site.baseurl }}/assets/img/coffee/{{ post.image }}{% else %}{{ site.url }}{{ site.podcast.image }}{% endif %}"/><enclosure url="{% if post.media %}{{ site.url }}{{ site.baseurl }}/assets/episodes/{{ post.media }}{% else %}{{ post.external_media }}{% endif %}" length="{{ post.length }}" type="audio/mpeg" />
 	</item>
-	{% endfor %}
+	{% endunless %}{% endfor %}
 </channel>
 </rss>
