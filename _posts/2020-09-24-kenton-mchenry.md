@@ -12,11 +12,11 @@ duration: "00:23:07"
 explicit: "no"
 resources:
   - name: Kenton's Biography
-    url: http://ichass.illinois.edu/index.php/staff/kenton-mchenry/
+    url: http://www.ncsa.illinois.edu/assets/php/directory/contact.php?contact=kmchenry
   - name: Kenton on Twitter
     url: https://twitter.com/kentonmchenry
-  - name: Kenton on GitHub
-    url: https://github.com/mchenry
+  - name: Organization on GitHub
+    url: https://github.com/ncsa/
   - name: Research Software Development & Management in Universities (Talk at PEARC20)
     url: https://drive.google.com/file/d/1rk-ou80NrfalZUA269Pi4Xv46t7UvqjO/view
 --- 
