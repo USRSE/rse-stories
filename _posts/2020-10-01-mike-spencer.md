@@ -5,7 +5,7 @@ author: "@pweschmidt"
 rse: "Mike Spencer"
 phenotype: 
 excerpt: "From assessing snow fall in Britain to livestock movements, Mike has provided his expertise in data science to policy makers and influencers. So testing the data and underlying assumptions is an essential step. For this it is sometimes necessary to move outside our comfort zone."
-date: 2020-10-02 8:30:00
+date: 2020-10-01 8:30:00
 external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-mike-spencer-episode-36.mp3  
 length: 12320518
 duration: "00:25:39"
