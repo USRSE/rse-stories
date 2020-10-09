@@ -61,7 +61,7 @@ navbar-links:
     - All Episodes: "episodes"
     - Episodes Feed: "episodes.rss"
     - Archive: "archive"
-  Phenotypes: "phenotypes"
+    - Phenotypes: "phenotypes"
 
 # Build settings
 permalink   : /:year/:categories/:title/
