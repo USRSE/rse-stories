@@ -23,4 +23,4 @@ resources:
     url: https://rweekly.org
 --- 
 If you work with R there is a great chance you will have met or heard of [Maëlle Salmon](https://twitter.com/ma_salmon). Maëlle is an associate editor at rOpenSci and deeply involved in community serving projects such as [rWeekly](https://rweekly.org) and [rLadies](https://rladies.org). The latter to help boost diversity. rLadies has chapters in many countries around the globe and is an active and vibrant community.
-In this episode Maëlle and I discuss the role R plays in the RSE community and its future. But also, her impressive catalogue of projects, including [CHAI](https://www.isglobal.org/en/-chai-cardiovascular-health-effects-of-air-pollution-in-andhra-pradesh-india) the prroject on Cardiovascular Health effects of Air pollution in Andhra Pradesh, India.  
+In this episode Maëlle and I discuss the role R plays in the RSE community and its future. But also, her impressive catalogue of projects, including [CHAI](https://www.isglobal.org/en/-chai-cardiovascular-health-effects-of-air-pollution-in-andhra-pradesh-india) the project on Cardiovascular Health effects of Air pollution in Andhra Pradesh, India.  
