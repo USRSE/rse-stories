@@ -16,8 +16,7 @@ resources:
     url: https://twitter.com/ixek
 --- 
 
-Happy New Year listeners! For this week's episode, we talk to the passionate Tania Allard,
-previously a Developer Advocate at Microsoft, and [recently announced](https://twitter.com/ixek/status/1346147165136105477) in a new role
+Happy New Year listeners! For [this week's episode](https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-tania-allard-episode-47.mp3), we talk to the passionate Tania Allard, previously a Developer Advocate at Microsoft, and [recently announced](https://twitter.com/ixek/status/1346147165136105477) in a new role
 as co-director for Quansight Labs. Congratulations Tania! But for Tania, we suspect
 a change in role does not change her passions for developing and leading communities,
 Python, and developing beautiful resources and software. In this episode of RSE Stories, we talk about
