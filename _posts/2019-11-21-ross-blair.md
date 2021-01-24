@@ -75,18 +75,23 @@ The job I got was the only RSE position I applied for, but there were a few othe
 I recently became remote full time so I am much less involved in the day to day operations at the lab by virtue of not being there. I still find myself in about 2 to 3 hours of meetings a week with people in the lab which goes a long ways towards not feeling completely in the wilderness. The lab currently has two other full time RSEs that are remote, which is a testament to the housing and cost issues of the Bay Area.
 
 > What is the hardest part about being an RSE?
+
 Keeping up to date on the newest libraries or tooling. I find I don't spend very much time on learning new things unless they are necessary for the problem at hand. I can imagine if I ever try and find another job in a few years I'll have a bit of catching up to do.
 
 > What is the best part about being an RSE?
+
 The freedom and lack of pressure. I'm trusted to do what's expected of me and most of the time there is not an immediate deadline causing rushed work. I mentioned compensation earlier, and freedom in work and from stress are worth more to me than a larger pay check.
 
 > What is something that you do in your role that most folks wouldn't expect?
+
 I wish there was something exciting I could say here but its really just a lot of fixing bugs. Our lab is good about acknowledging people who make their work possible so my name has ended up on a few papers which I find very flattering. Also got to get an MRI scan prototyping an experiment once which was is not something I had ever done before.
 
 > Do you work with a team, or primarily on your own?
+
 For solving individual problems I'm usually working on my own, but every project we have has people around it that make it possible so in that sense my work is always in support of a team.
 
 > How do you set your goals, both personal and work related?
+
 I don't! I really thrive in a role where people other people are coming up with the goals and telling me what they'd like to see done. As for personal goals, I'm sure I have them but I don't actively see them as such. I don't like to compare myself against benchmarks or put pressure on myself to be something I'm not, so my personal development seems to be optimized towards producing as little stress for myself as possible.
 
 > What kind of resources (training, software, compute, or other) or community
@@ -100,6 +105,7 @@ I lived in Palo Alto for about 6 years and I never got used to it. Everyone had 
 
 > The answer is machine learning - what's the question? (This one is supposed to be fun/
 > creative, take it anywhere you like lol)
+
 What is overrated for $200. The advances in the past 5 years have been amazing, and the tooling around them is continually improving but I think the investors of the world have oversold the number of problems it will solve and how well they will solve them in terms of day to day living for normal people.
 
 
