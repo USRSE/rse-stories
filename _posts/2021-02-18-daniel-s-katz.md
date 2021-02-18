@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Sustaining People"
+author: "@vsoch"
+rse: "Daniel Katz"
+excerpt: "Dan Katz is well-known in the research software engineering world for his leadership, and consistent work on policy and community."
+date: 2021-02-18 8:30:00
+external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-dan-katz-episode-52.mp3
+length: 22277659
+duration: "00:43:18"
+explicit: "no"
+resources:
+  - name: Personal Site
+    url: https://danielskatz.org/
+  - name: Dan on Twitter
+    url: https://twitter.com/danielskatz
+  - name: US Research Software Sustainability Institute
+    url: http://urssi.us/
+  - name: Valuing People vs Hardware
+    url: https://danielskatzblog.wordpress.com/2021/02/18/valuing-people-vs-hardware/
+--- 
+
+Dan Katz is a Chief Scientist at the National Center for Supercomputing Applications.
+But you might recoginize him from Better Scientific Software, The Software Sustainability
+Institute, or the Journal of Open Source Software. In this episode, we talk about software,
+citation and best practices, but we also talk about the community around it, and the importance of policy and people.
+
+> Make sure to check out a special post, [Valuing People vs. Hardware](https://danielskatzblog.wordpress.com/2021/02/18/valuing-people-vs-hardware/) that Dan has written as a small story to supplement this episode.
