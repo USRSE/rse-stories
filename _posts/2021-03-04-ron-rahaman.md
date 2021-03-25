@@ -5,7 +5,7 @@ author: "@vsoch"
 rse: "Ron Rahaman"
 excerpt: "Ron is passionate about software engineering, teaching, and supporting the research community."
 date: 2021-03-04 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/ron-rahaman-rse-stories-episode-55.mp3
+external_media: https://us-rse.org/rse-stories-episodes-1/2021/ron-rahaman-rse-stories-episode-54.mp3
 length: 14387722
 duration: "00:26:02"
 explicit: "no"
