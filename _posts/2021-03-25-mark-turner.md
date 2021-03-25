@@ -5,7 +5,7 @@ author: "@pweschmidt"
 rse: "Mark Turner"
 excerpt: "Meet Mark Turner, Head of the RSE team at Newcastle University in the UK. In this episode we discuss the transition from engineer to manager and how to build effective RSE teams."
 date: 2021-03-25 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-Mark-Turner-episode-56.mp3
+external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-Mark-Turner-episode-55.mp3
 length: 14339888
 duration: "00:29:52"
 explicit: "no"
