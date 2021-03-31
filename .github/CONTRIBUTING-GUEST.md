@@ -20,7 +20,8 @@ talk to actual RSEs and have them tell their stories. This is the goal of the
 RSE Stories podcast. Regardless of our title, geographic location,
 or time in our careers, each of us has a story to tell.
 
-So you are interested in being a guest on the Research Software Engineer Stories podcast -
+So you you read the above, and have an interesting story to tell or are 
+interested in being a guest on the Research Software Engineer Stories podcast -
 excellent! If you haven't read the background in the site's [about guide](https://us-rse.org/rse-stories/about/)
 you might find it interesting. This guide will give you some information about what to expect
 for your session.
