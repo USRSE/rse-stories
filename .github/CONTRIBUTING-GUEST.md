@@ -1,5 +1,25 @@
 # Being a Guest on RSE Stories
 
+Why might you want to be a guest on the Research Software Engineer (RSE) Stories podcast?
+While we might [generally say](https://us-rse.org/what-is-an-rse/) an RSE 
+exists somewhere between a software engineer and a researcher, in reality
+the groups of expertise and responsibility that any RSE encompasses is a rich
+and wide set. While you might fit the definition of being somewhat a software
+engineer and somewhat a researcher, not all RSEs do research, and might vary
+in the amount and type of software engineering that they do. You might be an
+RSE that is in a managerial role, or you might be more service-oriented.
+You might build software for research, or do research about innovating software.
+You might be doing traditional HPC work or working in compiled languages,
+or you might be doing frontend development. The communities that you 
+serve is also another factor. Are you an open source developer and 
+contributor, or are you working within a lab?
+
+From the above, you might guess that it would be extremely challenging 
+to state a single definition of an RSE. A better idea, then, might be to 
+talk to actual RSEs and have them tell their stories. This is the goal of the 
+RSE Stories podcast. Regardless of our title, geographic location,
+or time in our careers, each of us has a story to tell.
+
 So you are interested in being a guest on the Research Software Engineer Stories podcast -
 excellent! If you haven't read the background in the site's [about guide](https://us-rse.org/rse-stories/about/)
 you might find it interesting. This guide will give you some information about what to expect
