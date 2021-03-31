@@ -29,6 +29,8 @@ stories from across the RSE community, regardless of your geographic location.
 
 <a style="text-decoration:none" class="btn btn-primary get-started-btn" href="https://forms.gle/8NBVQYwTgDs4X7HN7">Sign Up!</a>
 
+You can read more about the experience in our [Contributing as a Guest](https://github.com/USRSE/rse-stories/blob/master/.github/CONTRIBUTING-GUEST.md) guide.
+
 <br>
 
 ## Efforts to Define
