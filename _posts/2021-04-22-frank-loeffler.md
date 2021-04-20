@@ -16,12 +16,7 @@ resources:
     url: https://fusion.cs.uni-jena.de/fusion/members/frank-loffler/
   - name: DE RSE association
     url: https://de-rse.org/de/index.html
-
 --- 
+
 In this recording Frank takes us through the various stages - and challenges - that he and his RSE friends took to build the [German RSE association](https://de-rse.org/de/index.html).
-Like so many other RSE's, [Frank Loeffler's](https://fusion.cs.uni-jena.de/fusion/members/frank-loffler/) career began in science; physics to be precise. As such he worked in different research areas in and out of Germany. During a research assignment in the US (Louisiana State University), Frank attended the first RSE conference in Manchester, UK in 2016. This was a crucial moment. Frank met other likeminded colleagues from Germany all motivated to build a community there as well. In a period when the term "RSE" did not exist, becoming a research software engineer was a process, as Frank describes. Of course, many of this has changed in the meantime. In fact, Frank himself will be leading a team of RSEs at his university in the near future. 
-
-
-
-
-
+Like so many other RSE's, [Frank Loeffler's](https://fusion.cs.uni-jena.de/fusion/members/frank-loffler/) career began in science; physics to be precise. As such he worked in different research areas in and out of Germany. During a research assignment in the US (Louisiana State University), Frank attended the first RSE conference in Manchester, UK in 2016. This was a crucial moment. Frank met other likeminded colleagues from Germany all motivated to build a community there as well. In a period when the term "RSE" did not exist, becoming a research software engineer was a process, as Frank describes. Of course, many of this has changed in the meantime. In fact, Frank himself will be leading a team of RSEs at his university in the near future.
