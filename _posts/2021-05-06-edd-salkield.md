@@ -46,4 +46,4 @@ and how they can work together. Edd shares his experiences about working in acad
 in contrast with working at a startup - and about tea!
 
 Learn more about Dreaming Spires on the company website at
-[https://dreamingspires.dev/](https://dreamingspires.dev/.
+[https://dreamingspires.dev/](https://dreamingspires.dev/).
