@@ -4,7 +4,7 @@ title: "Dreaming Spires"
 author: "@vsoch"
 rse: "Edd Salkield"
 excerpt: "Edd Salkield is a research software engineer and founder of Dreaming Spires, a research software consultancy bringing together developers and researchers."
-date: 2021-05-06 8:30:00
+date: 2021-05-06 5:30:00
 external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-edd-salkield-episode-59.mp3
 length: 15891082
 duration: "00:31:47"
@@ -22,6 +22,8 @@ resources:
     url: https://en.wikipedia.org/wiki/ZooMS
   - name: "@eddsalkield on GitHub"
     url: https://github.com/eddsalkield
+  - name: "Edd's Personal Site"
+    url: https://edd.salkield.uk/
   - name: "Dreaming Spires on GitHub"
     url: https://github.com/dreamingspires
 --- 
