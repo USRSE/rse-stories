@@ -14,7 +14,7 @@ resources:
     url: https://en.wikipedia.org/wiki/Matrix_(protocol)
   - name: "Oxford, city of dreaming spires
     url: https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Oxford-City-of-Dreaming-Spires/
-  - name: "Image search of Oxford's 'Dreaming Spires'"
+  - name: "Image search of Oxford's Dreaming Spires"
     url: https://duckduckgo.com/?q=city+of+dreaming+spires&t=canonical&iar=images&iax=images&ia=images
   - name: "Dreaming Spires on LinkedIn"
     url: https://www.linkedin.com/company/dreamingspires/
