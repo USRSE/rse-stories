@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fostering interdisciplinary collaboration for the advancement of research software"
+title: "Dreaming Spires"
 author: "@vsoch"
 rse: "Edd Salkield"
 excerpt: "Edd Salkield is a research software engineer and founder of Dreaming Spires, a research software consultancy bringing together developers and researchers."
