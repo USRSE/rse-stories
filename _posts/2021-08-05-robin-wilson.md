@@ -16,7 +16,7 @@ resources:
     url: http://blog.rtwilson.com/
 --- 
 
-Robin Wilson has an impressive body of work, from creating a new method to monitor air pollultion from satellites
+Robin Wilson has an impressive body of work, from creating a new method to monitor air pollution from satellites
 at high spatial resolution, to writing scientific software and creating means for open data. He now is thriving
 doing freelance work, and has an important story to share with our RSE community. You see, Robin
 is in a wheelchair. It wasn't something he expected, but it's changed his life and given him
