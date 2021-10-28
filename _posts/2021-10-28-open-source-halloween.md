@@ -11,7 +11,7 @@ duration: "00:48:52"
 explicit: "no"
 resources:
   - name: Halloween Episodes Stories (pdf)
-    url: https://us-rse.org/assets/stories/RSE_Stories_Halloween_Special_Episodes.pdf
+    url: https://us-rse.org/rse-stories/assets/stories/RSE_Stories_Halloween_Special_Episodes.pdf
 --- 
 
 ![{{ site.baseurl }}/assets/img/posts/rse-stories-halloween-2021.jpg]({{ site.baseurl }}/assets/img/posts/rse-stories-halloween-2021.jpg)
