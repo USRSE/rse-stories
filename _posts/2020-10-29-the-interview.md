@@ -40,7 +40,7 @@ Today was no different from any other day during the apocalypse. He woke up late
 the little internet, looking for hope, only to get a notification that he was spending now 3 and a half hours
 on his phone. Is that the best you can offer me, littl internet? You fruit branded Traitor. But actually, he
 realized, maybe today was different. You see he had managed to get an interview with a VR company,
-Toolie, as a virtual reality engineer. It was a highly sought after specialty these days, even moreso
+Toolie, as a virtual reality engineer. It was a highly sought after specialty these days, even more so
 with the stay at home orders. You know, if you can't go to a restaurant, or take a walk in the park,
 why not do it virtually? And take a step further and leave behind your flawed self and go as a unicorn instead.
 Or an ogre with purple hair. Turn it into an episode of your favorite action series where the dinner

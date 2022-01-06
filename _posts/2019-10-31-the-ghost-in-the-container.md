@@ -122,7 +122,7 @@ it looked like goppelty gook. Even though he ran it yesterday he was super freak
 out and didn't want to do it again. "AH!" he thought, I'll look for it in the build history.
 
 There wasn't evidence of compiling such a binary in his Dockerfile, so he used the Docker Hub
-API to request a version 1 image manifest, you know, the older one that still has a v1compatability
+API to request a version 1 image manifest, you know, the older one that still has a v1compatibility
 key, and then lots of history dumped in there. There was nothing out of the ordinary.
 Maybe if he ran the script again, he could trace it this time? Yeah, that would at least
 show him in more detail what was going on. It would just predict an ice cream preference after

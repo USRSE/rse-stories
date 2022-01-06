@@ -31,6 +31,6 @@ repository to show up in this community trick or treat bag.
 
 We have fun episodes coming your way! We will have a new episode released next week, and a Halloween special along with
 a printed story released at the end of the month. We are also actively recruiting hosts,
-guests, and anyone that wants to participte, even if just for a short time or one episode!
+guests, and anyone that wants to participate, even if just for a short time or one episode!
 If you have ever wanted to make an episode, and make it your own, please reach out to [@vsoch](https://github.com/vsoch).
 
