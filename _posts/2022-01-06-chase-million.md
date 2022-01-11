@@ -12,8 +12,6 @@ explicit: "no"
 resources:
   - name: Million Concepts Website
     url: https://www.millionconcepts.com/about.html
-  - name: 
-    url: 
 --- 
 
 Welcome to the New Year, my dearest reader! We open 2022 with our 69th episode,
