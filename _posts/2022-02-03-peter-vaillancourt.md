@@ -29,7 +29,7 @@ resources:
 --- 
 
 For our 70th episode we chat with Peter Vaillancourt, a Computational Scientist at the Cornell Center of Advanced Computing.
-Peter took a non-tradtional path to his current role, starting in the Air Force and eventually studying math and physics, and eventually
+Peter took a non-traditional path to his current role, starting in the Air Force and eventually studying math and physics, and eventually
 finding his love for programming. In this episode, Peter talks about his journey to understand himself, and some of the challenges that our community
 faces when dealing with diversity, trauma, and understanding one another. We talk about retention and opportunity, and 
 the idea of micro-compassions - small acts of kindness that make our community a place that we want to be.
