@@ -14,6 +14,10 @@ resources:
     url: https://codeforthought.buzzsprout.com/
   - name: Peter's Story Joining RSE Stories!
     url: https://society-rse.org/peter-schmidt-rse-stories-podcast/
+  - name: "Code for Thought: Is Research Software a Tangled Mess?"
+    url: https://codeforthought.buzzsprout.com/1326658/9347006-is-research-software-a-tangled-mess
+  - name: "Code for Thought: Who is Pierre Bourdieu"
+    url: https://codeforthought.buzzsprout.com/1326658/8136090-who-is-pierre-bourdieu
 --- 
 
 Peter is a Senior Research Software Engineer at the University of College London, a role he joined
