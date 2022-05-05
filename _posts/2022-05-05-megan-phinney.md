@@ -21,3 +21,5 @@ Lab after her graduation this month! In this episode, Megan tells us her story o
 and her early experiences working as an intern at LANL, and how important a particular teacher was to her path. We discuss
 how research software engineering might relate to HPC, the student cluster competition at the Supercomputing (SC) conference, 
 the importance of people, and projects Charliecloud and squashfs.
+
+By the way, Megan makes [beautiful slides](https://www.lanl.gov/projects/national-security-education-center/information-science-technology/_assets/docs/2020-si-docs/2020-si-project5.pdf)! We all should aspire for this level of funny and greatness :)
