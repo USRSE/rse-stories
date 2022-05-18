@@ -6,7 +6,7 @@ rse: "Jay Lofstead"
 excerpt: "Jay Lofstead of Sandia National Laboratories has some big plans for the Inclusivity Committee at Supercomputing 2022."
 date: "2022-05-27 8:30:00"
 external_media: 
-length: 
+length: 16624071
 duration: "00:18:47"
 explicit: "no"
 resources:
