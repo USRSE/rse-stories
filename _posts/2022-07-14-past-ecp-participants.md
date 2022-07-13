@@ -29,7 +29,7 @@ Hang Liu, Valeria Barra, and Bashir Mohammed. In a mix of one-on-one and panel i
 these past attendees tell us how ECP taught them valuable professional
 lessons from funding to time management to mentor-mentee relationship building,
 as well as created lasting connections and a sense of community with a network of both their peers and
-more senior scientists and reseachers.
+more senior scientists and researchers.
 
 All participants encourage any professionals in their early career to apply for
 the program this year, taking place in Dallas, TX, as part of Supercomputing 2022. To apply,
