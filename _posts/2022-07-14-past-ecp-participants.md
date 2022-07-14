@@ -5,7 +5,7 @@ author: "@mmundt"
 rse: "Sameh Abdulah, Jean Luca Bez, Silvina Caino-Lores, Hang Liu, Valeria Barra, Bashir Mohammed"
 excerpt: "Six past Early Career Program participants tell us about their experiences in the program and why others should apply as part of Supercomputing 2022."
 date: "2022-07-14 4:30:00"
-external_media: 
+external_media: https://raw.githubusercontent.com/USRSE/rse-stories-episodes-1/master/2022/rse-stories-ecp-participants-mini-series-miranda-3.mp3
 length: 27761749
 duration: "00:47:09"
 explicit: "no"
