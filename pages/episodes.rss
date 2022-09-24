@@ -14,6 +14,9 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 	<itunes:author>{{ site.podcast.owner.name }}</itunes:author>
 	<itunes:subtitle>{{ site.description }}</itunes:subtitle>
 	<itunes:summary>{{ site.description }}</itunes:summary>
+	<itunes:new-feed-url>
+		href="https://rseng.github.io/devstories/episodes.rss
+	</itunes:new-feed-url>
 	<description>{{ site.description }}</description>
 	<itunes:explicit>{{ site.podcast.explicit }}</itunes:explicit>
 	<itunes:keywords>{{ site.podcast.keywords }}</itunes:keywords>
