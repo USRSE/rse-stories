@@ -18,7 +18,7 @@ itunes_url: "https://podcasts.apple.com/us/podcast/rse-stories/id1481504497"
 podcast:
   owner:
     name: Vanessa Sochat
-    email: vsochat@stanford.edu
+    email: sochat1@llnl.gov
   explicit: "no"
   image: /assets/img/rse-stories.png # iTunes requires 2,000 pixel art
   keywords: "research software engineering,rse,rse-stories,software"
