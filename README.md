@@ -1,5 +1,7 @@
 # Research Software Engineer Stories
 
+> Hi friends! 👋️ We've moved over to the [Developer Stories podcast](https://rseng.github.io/devstories/) podcast - the same passion and fun as before, but aiming to be more inclusive! See you there!
+
 What is a research software engineer? How can we compare
 apples and oranges, when one person might be heavily involved in open source
 software engineering, and another actively publishing, and a third with managerial duties,
